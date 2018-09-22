@@ -1,7 +1,7 @@
 /*
-# .toBeEmpty()
+#### .toBeEmpty()
 
-Use .toBeEmpty when checking if a String '', Array [] or Object {} is empty.
+Use `.toBeEmpty` when checking if a `String` `''`, `Array` `[]` or `Object` `{}` is empty.
 */
 
 test('passes when given an empty string', () => {
